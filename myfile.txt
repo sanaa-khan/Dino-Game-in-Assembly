@@ -1,0 +1,16 @@
+				Welcome to T-eax! :)
+	
+		How to play:
+			
+			
+	Controls:
+		Press 'up' to jump
+		Press 'down' to duck
+		Press 'right' to move forward
+		Press 'left' to move backwards
+
+		Every time you hit a hurdle, you lose a life, so be careful!
+				Have fun!$
+
+Press ESC to return
+

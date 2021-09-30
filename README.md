@@ -15,3 +15,6 @@ Ever been offline and forced to play the dinosaur game on Chrome out of sheer bo
 ```
 - Use game menu to navigate
 - Follow game instructions to play
+
+## Contact
+Need help? Got any queries? Feel free to hit me up at sanakahnn@gmail.com.
